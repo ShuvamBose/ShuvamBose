@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShuvamBose
-- 👀 I’m interested in Programming ,Image processing , Networking ,AI /ML ,NLP ,Data Science and more.
-- 🌱 I’m currently pursuing BTECH CSE from PES University.
-- 💞️ I’m looking to collaborate on projects from various domains of CSE -Image processing, Networking ,AI /ML ,NLP ,Tensorflow , Data Science.
-- 📫 How to reach me ...
+- 👀 I’m interested in Programming , Networking ,AI /ML ,DataBase Management,Data Analytics and more.
+- 🌱 I’m currently a CSE student at PES University.
+- 💞️ I’m looking to collaborate on projects from various domains of CSE.
+- 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/shuvam-bose-107711238/
 
 <!---
 ShuvamBose/ShuvamBose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
