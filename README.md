@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShuvamBose
-- 👀 I’m interested in Programming , Networking ,AI /ML ,DataBase Management,Data Analytics and more.
+- 👀 I’m interested in Programming ,Networking ,AI /ML ,DataBase Management ,Data Analytics ,Big Data and more.
 - 🌱 I’m currently a CSE student at PES University.
 - 💞️ I’m looking to collaborate on projects from various domains of CSE.
 - 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/shuvam-bose-107711238/
